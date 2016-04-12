@@ -10,10 +10,10 @@ namespace HelloWorld
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine(CreateMessage());
+            Console.WriteLine(CreateMessage1());
         }
 
-        public static string CreateMessage()
+        public static string CreateMessage1()
         {
             return "Hello Worldaaaaaaaaaaaaaaaaa";
         }
